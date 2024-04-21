@@ -1,0 +1,35 @@
+{
+  "groups" : [
+    {
+      "rows": 2,
+      "cols": 1,
+      "position" : [ 0, 0 ],
+      "dimensions" : [28, 28],
+      "spacing" : [30, 30],
+      "controls" : [80, 88],
+      "messageType" : "note",
+      "drawType" : "button"
+    },
+    {
+      "rows": 2,
+      "cols": 1,
+      "position" : [ 62, 0 ],
+      "dimensions" : [28, 28],
+      "spacing" : [30, 30],
+      "controls" : [81, 89],
+      "messageType" : "note",
+      "drawType" : "button"
+    },
+    {
+      "rows": 2,
+      "cols": 3,
+      "position" : [ 0, 70 ],
+      "dimensions" : [28, 28],
+      "spacing" : [30, 30],
+      "controls" : [86, 91, 92, 93, 94, 95],
+      "messageType" : "note",
+      "drawType" : "button"
+    }
+    
+  ]
+}

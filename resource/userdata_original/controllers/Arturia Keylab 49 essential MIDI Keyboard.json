@@ -1,0 +1,76 @@
+{
+  "channelFilter": 1,
+  "modwheelcc": 1,
+  "groups" : [
+
+
+
+    {
+      "rows": 3,
+      "cols": 1,
+      "position" : [ 260, 0 ],
+      "dimensions" : [28, 18],
+      "spacing" : [30, 36],
+      "controls" : [1, 2, 3],
+      "messageType" : "control",
+      "drawType" : "button"
+    },
+
+    {
+      "rows": 1,
+      "cols": 9,
+      "position" : [ 290, 0 ],
+      "dimensions" : [28, 28],
+      "spacing" : [30, 30],
+      "controls" : [ 74, 71, 76, 77, 93, 18, 19, 16, 17 ],
+      "messageType" : "control",
+      "drawType" : "knob"
+    },
+
+    {
+      "rows": 1,
+      "cols": 9,
+      "position" : [ 290, 50 ],
+      "dimensions" : [28, 48],
+      "spacing" : [30, 50],
+      "controls" : [ 73, 75, 79, 72, 80, 81, 82, 83, 85 ],
+      "messageType" : "control",
+      "drawType" : "slider"
+    },
+
+
+    {
+      "rows": 1,
+      "cols": 1,
+      "position" : [ 0, 155 ],
+      "dimensions" : [10, 43],
+      "spacing" : [12, 45],
+      "messageType" : "pitchbend",
+      "drawType" : "slider"
+    },
+
+
+
+    {
+      "rows": 1,
+      "cols": 48,
+      "position" : [ 40, 150 ],
+      "dimensions" : [10, 50],
+      "spacing" : [12, 52],
+      "controls" : [  36, 37, 38, 39, 40, 41, 
+                      42, 43, 44, 45, 46, 47,
+
+                      48, 49, 50, 51, 52, 53,
+                      54, 55, 56, 57, 58, 59,
+
+                      60, 61, 62, 63, 64, 65,
+                      66, 67, 68, 69, 70, 71,
+                      
+                      72, 73, 74, 75, 76, 77,
+                      78, 79, 80, 81, 82, 83
+                   ],
+      "messageType" : "note",
+      "drawType" : "button"
+   }
+  ]
+}
